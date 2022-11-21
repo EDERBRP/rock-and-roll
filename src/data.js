@@ -6,7 +6,7 @@ function chillHop() {
         {
             name:"Rock And Roll Heaven",
             artist: "Rock And Roll",
-            cover: "https://dab-radios.org/admin_panel_radiocaboverde/uploads/radios/radio_75667_RDP%20%C3%81frica%20Cabo%20Verde.png",
+            cover: "http://rock-and-roll.dab-radios.org/ro/wp-content/uploads/2022/11/Rock-And-Roll-Heaven-1.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "https://streams.radio.co/see9cf0008/listen",
@@ -15,7 +15,7 @@ function chillHop() {
         {
             name:"SHE Radio Rock And Roll Channel",
             artist: "Rock And Roll",
-            cover: "https://dab-radios.org/admin_panel_radiocaboverde/uploads/radios/radio_98740_Radio%20Cabo%20Verde%20International.png",
+            cover: "http://rock-and-roll.dab-radios.org/ro/wp-content/uploads/2022/11/SHE-Radio-Rock-And-Roll-Channel-1.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "http://80.85.84.114:8054/stream",
