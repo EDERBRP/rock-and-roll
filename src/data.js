@@ -6,7 +6,7 @@ function chillHop() {
         {
             name:"Rock And Roll Heaven",
             artist: "Rock And Roll",
-            cover: "http://rock-and-roll.dab-radios.org/ro/wp-content/uploads/2022/11/Rock-And-Roll-Heaven-1.jpg",
+            cover: "https://dab-radios.org/admin_panel_radiocaboverde/uploads/radios/radio_75667_RDP%20%C3%81frica%20Cabo%20Verde.png",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "https://streams.radio.co/see9cf0008/listen",
