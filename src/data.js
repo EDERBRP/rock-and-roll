@@ -27,7 +27,7 @@ function chillHop() {
             cover: "https://iconoderadio.jpg",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "http://rock-and-roll.dab-radios.org/ro/wp-content/uploads/2022/11/Studio-Rock-ZQ-1.jpg",
+            audio: "https://us9.maindigitalstream.com/ssl/WHVO",
             active: false,
         },
         {
