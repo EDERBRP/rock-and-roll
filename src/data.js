@@ -15,7 +15,7 @@ function chillHop() {
         {
             name:"SHE Radio Rock And Roll Channel",
             artist: "Rock And Roll",
-            cover: "http://rock-and-roll.dab-radios.org/ro/wp-content/uploads/2022/11/SHE-Radio-Rock-And-Roll-Channel-1.jpg",
+            cover: "https://dab-radios.org/admin_panel_radiocaboverde/uploads/radios/radio_98740_Radio%20Cabo%20Verde%20International.png",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "http://80.85.84.114:8054/stream",
