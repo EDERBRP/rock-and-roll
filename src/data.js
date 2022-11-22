@@ -13,7 +13,7 @@ function chillHop() {
             active: true,
         },
         {
-            name:"SHE Radio Rock And Roll Channel",
+            name:"SHE Radio Rock And Roll Channels",
             artist: "Rock And Roll",
             cover: "http://rock-and-roll.dab-radios.org/ro/wp-content/uploads/2022/11/SHE-Radio-Rock-And-Roll-Channel.png",
             id: uuidv4(),
