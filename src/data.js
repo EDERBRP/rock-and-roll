@@ -13,12 +13,12 @@ function chillHop() {
             active: true,
         },
         {
-            name:"SHE Radio Rock And Roll Channels",
+            name:"Dash Radio - Church of Rock & Roll",
             artist: "Rock And Roll",
-            cover: "http://rock-and-roll.dab-radios.org/ro/wp-content/uploads/2022/11/SHE-Radio-Rock-And-Roll-Channel.png",
+            cover: "http://rock-and-roll.dab-radios.org/ro/wp-content/uploads/2022/11/Dash-Radio.png",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "http://80.85.84.114:8054/stream",
+            audio: "https://ice55.securenetsystems.net/DASH21",
             active: false,
         },
         {
